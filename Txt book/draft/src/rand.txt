@@ -1,0 +1,198 @@
+eghost704	
+50075139N
+
+ox180_3dh_LR
+
+Q1
+
+public class GeneralErrorException extends Exception
+{
+	public GeneralErrorException ()
+	{
+		super ():
+		System.out.println("general error"):
+	}
+}
+
+Q2
+
+try
+{
+	//error
+}
+catch (GenaralErrorException ex)
+{
+	//fix
+{
+
+Q3
+
+public static T[] toArray (ArrayList<T> x)
+{
+	int size = x.getSize();
+	T [] newArray = (object []) new <T> [size];
+
+	for (int i = 0; i < size; i++)
+		newArray[i] = x.get(i);
+	return newArray;
+}	
+
+Q4
+
+public static int count (Animal [] x)
+{
+	int size = x.getlength;
+	int counter = 0;
+	for (int i =0; i < size; i++)
+	{
+		if (x[i] instenceOf (Tiger))
+			counter++;
+	}
+	return counter;
+}
+
+Q5
+
+public static void replace (Animal [] x)
+{
+	int size = x.getlength;
+	for (int i =0; i < size; i++)
+	{
+		if (x[i] instenceOf (Tiger))
+			x[i] = new Monkey();
+	}
+}
+
+Q6
+
+public interface DynamiicArray<T>
+{
+	public T get (int i) throws IndexOutOfBoundException;
+	public void set (int i, T newMem) throws IndexOutOfBoundException;
+	public void append (T newMem) ;
+	public void expand () ;
+	public int getSize ();
+	public T del (int i) throws IndexOutOfBoundException;
+
+Q7
+
+public interface ComplexInterface
+{
+	public Complex add (Complex RHS);
+	public Complex sub (Complex RHS);
+	public Complex mul (Complex RHS);
+	public Complex div (Complex RHS);
+	public Complex equals (Complex RHS);
+	public int compareTo (Complex RHS);
+}
+
+Q8
+
+public PrintWriter merg (Scanner f1, Scanner f2)
+{
+	PrintWriter x = null;
+
+	try 
+	{
+		x = new PrintWriter ("filename");
+	}
+	catch (FileNotFoundException)
+	{
+		System.out.println ("file not found");
+	}
+	if (x != null)
+	{
+		while (fi.hasNext())
+		{
+			String a = f1.nextLine ();
+			x.out.println (a);
+		}
+		while (f2.hasNext())
+		{
+			String a = f2.nextLine ();
+			x.out.println (a);
+		}
+	}
+	return x;
+}	
+
+Q9
+
+public static int getSize (FileInputStream aFile)
+{
+	int count = 0;
+
+	while(true)
+	{
+		try
+		{
+			Double x = (Double aFile.readObject ();
+			count++;
+		}
+		catch (IOEception ex)
+		{
+			System.out.println ("end of file or reading error");
+			break;
+		}	
+	}
+	return count;
+}
+
+Q10
+
+public static Double get (FileInputStream aFile, int n)
+{
+	Double x = null;
+	int i = 1;
+	while(i <= n)
+	{
+		try
+		{
+			x = (Double) aFile.readObject ();
+			i++;
+		}
+		catch (IOEception ex)
+		{
+			System.out.println ("end of file or reading error");
+			x = null;
+			break;
+		}	
+	}
+	return x;
+}
+
+
+
+publicbang
+PublicPickUps
+Alina Li
+euro pickups
+Cameron Canela	
+familystrokes bailey brooke
+backroomfacials
+mygf
+RealSlutParty
+passion-hd 
+fantasyhd
+Backroom Casting Couch
+Marsha May
+stepsiblingscaught
+sislovesme
+Family Therapy
+bffs 
+propertysex
+massagecreep
+GF Revenge 
+povd
+exploitedcollegegirls
+girls do porn
+clips4sale
+kinkyfamily
+shoplyfter
+missax
+bangpov
+howguysfuck
+
+ Jessyka Swan
+
+ Hookups_With_Teens
